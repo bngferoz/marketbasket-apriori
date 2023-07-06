@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bngfe
+ *
+ */
+module Apriori {
+}
